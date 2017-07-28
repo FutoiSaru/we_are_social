@@ -1,0 +1,42 @@
+[
+{
+    "fields": {
+        "username": "blob@blob.com",
+        "first_name": "",
+        "last_name": "",
+        "is_active": true,
+        "is_superuser": false,
+        "is_staff": false,
+        "last_login": "2017-07-26T08:44:28.496Z",
+        "subscription_end": "2017-08-23T08:44:27.968Z",
+        "groups": [],
+        "user_permissions": [],
+        "password": "pbkdf2_sha256$20000$VpcflhfgQPzM$f5TxoK531A58QGeHxlq7yyCjlrbk7uNvxI9z8BU5w4E=",
+        "stripe_id": "cus_B5x27Ed1OmSIOG",
+        "email": "blob@blob.com",
+        "date_joined": "2017-07-26T08:44:26.135Z"
+    },
+    "model": "accounts.user",
+    "pk": 1
+},
+{
+    "fields": {
+        "username": "futoisaru@gmail.com",
+        "first_name": "",
+        "last_name": "",
+        "is_active": true,
+        "is_superuser": true,
+        "is_staff": true,
+        "last_login": "2017-07-26T11:05:17.256Z",
+        "subscription_end": "2017-07-26T08:46:43.604Z",
+        "groups": [],
+        "user_permissions": [],
+        "password": "pbkdf2_sha256$20000$PbhLIi7O0o6M$wMlZaOpj5+/Nzri3+IooYPbWnyZIRpKLGmcTp/FSbe4=",
+        "stripe_id": "",
+        "email": "futoisaru@gmail.com",
+        "date_joined": "2017-07-26T08:46:43.604Z"
+    },
+    "model": "accounts.user",
+    "pk": 2
+}
+]
