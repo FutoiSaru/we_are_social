@@ -14,6 +14,6 @@ STRIPE_PUBLISHABLE = os.getenv('STRIPE_PUBLISHABLE', '<your STRIPE_PUBLISHABLE k
 STRIPE_SECRET = os.getenv('STRIPE_SECRET', '<your STRIPE SECRET key>')
 
 # Paypal environment variables
-SITE_URL = '<your Heroku URL>'
+SITE_URL = 'futoiwearesocial.herokuapp.com/'
 PAYPAL_NOTIFY_URL = '<your Heroku URL>/a-very-hard-to-guess-url/'
 PAYPAL_RECEIVER_EMAIL = '<your PayPal merchant>'
